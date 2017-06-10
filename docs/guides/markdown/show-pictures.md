@@ -22,3 +22,4 @@ title: 引用图片方式
 {% endcapture %}
 
 {% include templates/home.md %}
+    
